@@ -7,6 +7,7 @@ import DeleteMaxPrices from './src/priceslimit/DeleteMaxPrices.js';
 import PricesRequests from './src/ProductAndPrice/PricesRequests.js';
 import PricesByCountry from './src/ProductAndPrice/PricesByCountry.js';
 import PricesByProduct from './src/ProductAndPrice/PricesByProduct.js';
+import PricesByProductAndCountry from './src/ProductAndPrice/PricesByProductAndCountry.js';
 
 export { 
     Balance, 
@@ -17,6 +18,7 @@ export {
     DeleteMaxPrices,
     PricesRequests,
     PricesByCountry,
-    PricesByProduct
+    PricesByProduct,
+    PricesByProductAndCountry,
 
 }
