@@ -1,0 +1,29 @@
+{
+    "name": "5sim-api",
+    "version": "2024.8.6",
+    "description": "Unofficial 5Sim.net Javascript API Modules",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sonofescobar1337/5sim.git"
+    },
+    "keywords": [
+      "5sim-api",
+      "5sim",
+      "5sim-nodejs"
+    ],
+    "author": "sonofescobar1337",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/sonofescobar1337/5sim/issues"
+    },
+    "homepage": "https://github.com/sonofescobar1337/5sim#readme",
+    "dependencies": {
+      "node-fetch": "latest"
+    }
+  }
+  
