@@ -8,6 +8,7 @@ import PricesRequests from './src/ProductAndPrice/PricesRequests.js';
 import PricesByCountry from './src/ProductAndPrice/PricesByCountry.js';
 import PricesByProduct from './src/ProductAndPrice/PricesByProduct.js';
 import PricesByProductAndCountry from './src/ProductAndPrice/PricesByProductAndCountry.js';
+import BuyActivationNumber from './src/Purchase/BuyActivationNumber.js';
 
 export { 
     Balance, 
@@ -20,5 +21,5 @@ export {
     PricesByCountry,
     PricesByProduct,
     PricesByProductAndCountry,
-
+    BuyActivationNumber
 }
